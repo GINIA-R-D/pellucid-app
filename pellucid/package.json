@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@fontsource/inter": "^4.5.11",
+    "animate.css": "^4.1.1",
+    "inter-ui": "^3.19.3",
+    "tailwind-animatecss": "^1.0.0"
+  }
+}
